@@ -1,2 +1,2 @@
 # Laravel_IDC
-Blog for a religious association
+Blog implementation with laravel
